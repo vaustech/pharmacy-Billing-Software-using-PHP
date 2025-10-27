@@ -107,7 +107,7 @@ $result_items = $stmt_items->get_result();
                         </table>
                     </div>
 
-                    <p class="text-center text-muted mt-4">ধন্যবাদ! আবার আসবেন।বিক্রিত মাল ফেরত নিয়া হয় না।</p>
+                    <p class="text-center text-muted mt-4">ধন্যবাদ! আবার আসবেন। বিক্রিত মাল ফেরত নিয়া হয় না।</p>
 
                 </div>
             </div>
