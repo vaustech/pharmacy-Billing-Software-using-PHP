@@ -1,6 +1,6 @@
     </main>
 
-    <footer class="bg-dark text-white text-center p-3 mt-5 fixed-bottom">
+    <footer class="bg-dark text-white text-center p-3 mt-5 ">
         <p class="mb-0">© <?php echo date('Y'); ?> PharmaLink POS — All Rights Reserved.</p>
     </footer>
 
